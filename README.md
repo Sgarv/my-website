@@ -10,7 +10,9 @@
  
  Another edit: Oct. 24, 2018 @ 3:58 PM
  
- ##Edit on local side
- 
- Oct 25 3018 @ 11:35
- 
+Second edit: Oct. 25, 2018 @ 11:28
+
+##Repository purpose
+
+This file is just a read me file.
+
