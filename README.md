@@ -18,3 +18,10 @@ This file is just a read me file.
 
 Edit: Oct 25, 2018 @ 4:14PM
 
+Edit: Oct. 30, 2018 12:21 PM
+
+## Getting started
+
+To get started with this project, just 'clone' this repository.
+
+
